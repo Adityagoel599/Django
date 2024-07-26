@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "357542073032",
+    "project_id": "django-7726e",
+    "storage_bucket": "django-7726e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357542073032:android:335912992de5ef5f4ecbfd",
+        "android_client_info": {
+          "package_name": "com.example.django"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJnAnWDZnD5hQZAo0aiq7QeToBSgL3RkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
